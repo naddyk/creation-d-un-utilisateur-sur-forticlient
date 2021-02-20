@@ -1,1 +1,2 @@
 # creation-d-un-utilisateur-sur-forticlient
+Ce projet a pour but permet aux utilisateurs externes  ou nomades aient toujours accès aux applications présentes au sein de l'entreprise au travers d’un navigateur web. Dans ce projet , je vais vous montrer comment configurer un Firewall Fortinet (Fortigate) puis nous allons mettre en place un tunnel VPN SSL sur celui-ci afin qu’un utilisateur externe à votre réseau puisse avoir accès à des applications bien spécifiques.
